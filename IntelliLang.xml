@@ -1,0 +1,8 @@
+<application>
+  <component name="LanguageInjectionConfiguration">
+    <injection language="JAVA" injector-id="xml">
+      <display-name>ListView/@id</display-name>
+      <place><![CDATA[xmlAttribute().withLocalName(string().equalTo("id")).withParent(xmlTag().withLocalName(string().equalTo("ListView")).withNamespace(string().equalTo("http://javafx.com/javafx/8.0.121")))]]></place>
+    </injection>
+  </component>
+</application>
