@@ -1,0 +1,20 @@
+<application>
+  <component name="libraryTable">
+    <library name="bcpg-jdk15on-1.57">
+      <CLASSES>
+        <root url="jar://$USER_HOME$/Downloads/SQLScout-4.4.1/SQLScout/lib/bcpg-jdk15on-1.57.jar!/" />
+        <root url="jar://$USER_HOME$/Downloads/SQLScout-4.4.1/SQLScout/lib/bcprov-jdk15on-1.57.jar!/" />
+        <root url="jar://$USER_HOME$/Downloads/SQLScout-4.4.1/SQLScout/lib/jgraphx-3.3.0.0.jar!/" />
+        <root url="jar://$USER_HOME$/Downloads/SQLScout-4.4.1/SQLScout/lib/misc-1.1.jar!/" />
+        <root url="jar://$USER_HOME$/Downloads/SQLScout-4.4.1/SQLScout/lib/poi-3.11.jar!/" />
+        <root url="jar://$USER_HOME$/Downloads/SQLScout-4.4.1/SQLScout/lib/sqlite-jdbc-3.21.0.1.jar!/" />
+        <root url="jar://$USER_HOME$/Downloads/SQLScout-4.4.1/SQLScout/lib/SQLScout.jar!/" />
+        <root url="jar://$USER_HOME$/Downloads/SQLScout-4.4.1/SQLScout/lib/xray-protocol-1.1.jar!/" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="jar://$USER_HOME$/Downloads/SQLScout-4.4.1/SQLScout/lib/jgraphx-3.3.0.0.jar!/" />
+      </SOURCES>
+    </library>
+  </component>
+</application>
